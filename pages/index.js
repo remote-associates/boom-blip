@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="I guess this is working?" />
+        <Header title="BOOMBLIP" />
         <p className="description">
-          Cool. Welcome, world.
+          Inside out. Upside down.
         </p>
       </main>
 
